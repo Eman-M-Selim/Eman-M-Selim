@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Eman Selim 👋
 
-<!--
-**Eman-M-Selim/Eman-M-Selim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+📍 Germany  
+💻 Currently focusing on Full-Stack Development and AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a Computer Science student building my skills in web development, software engineering, and AI-related applications.
+
+I am currently learning full-stack web development through practical projects, with a focus on frontend fundamentals, JavaScript, backend development, APIs, and databases.
+
+---
+
+## 🎯 Current Focus
+
+- Full-Stack Web Development
+- 
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Frontend | HTML5, CSS3, Bootstrap 5, JavaScript |
+| Backend | Python, FastAPI, REST APIs, Docker |
+| Tools | GitHub, Linux, Figma |
+
+---
+
+## 📚 Academic Projects
+
+### Vectorizr
+Semantic search prototype using embeddings and FAISS.
+
+**Technologies:** Python, FastAPI, Docker, FAISS, Tauri
+
+### UI/UX Design Project
+Interactive wireframes and UI prototypes using Figma.
+
+
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/eman-m-selim
