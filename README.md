@@ -17,7 +17,7 @@ I am currently learning full-stack web development through practical projects, w
 ## 🎯 Current Focus
 
 - Full-Stack Web Development
-- 
+  
 ---
 
 ## 🛠️ Tech Stack
