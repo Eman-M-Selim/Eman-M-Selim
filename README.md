@@ -1,6 +1,6 @@
 # Hi, I'm Eman Selim 👋
 
-🎓 Computer Science Student  
+🎓 Computer Science Student at Westfälische Hochschule  
 📍 Germany  
 💻 Currently focusing on Full-Stack Development and AI
 
