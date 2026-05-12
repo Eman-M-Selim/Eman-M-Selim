@@ -1,7 +1,6 @@
 # Hi, I'm Eman Selim 👋
 
 🎓 Computer Science Student at Westfälische Hochschule  
-📍 Germany  
 💻 Currently focusing on Full-Stack Development and AI
 
 ---
@@ -25,8 +24,28 @@ I am currently learning full-stack web development through practical projects, w
 | Category | Technologies |
 |----------|--------------|
 | Frontend | HTML5, CSS3, Bootstrap 5, JavaScript |
-| Backend | Python, FastAPI, REST APIs, Docker |
-| Tools | GitHub, Linux, Figma |
+| Backend | Python, Java, FastAPI, REST APIs |
+| AI & Data | FAISS, Embeddings, Prompt Engineering, AI Agent Development |
+| Tools & Platforms | Git, GitHub, Docker, Linux, VS Code, Figma |
+| Methods | Agile, Scrum, UI/UX Collaboration |
+
+---
+
+## 🌍 Languages
+
+- Arabic — Native
+- German — C1
+- English — B1
+
+---
+
+## 🤝 Soft Skills
+
+- Problem Solving
+- Teamwork
+- Analytical Thinking
+- Communication
+- Adaptability
 
 ---
 
